@@ -1,0 +1,26 @@
+[
+    {
+        "query": "$AAPL stock",
+        "tweets_with_sentiment": []
+    },
+    {
+        "query": "#AAPL stock price",
+        "tweets_with_sentiment": []
+    },
+    {
+        "query": "$MSFT stock",
+        "tweets_with_sentiment": []
+    },
+    {
+        "query": "#MSFT stock price",
+        "tweets_with_sentiment": []
+    },
+    {
+        "query": "$GOOGL stock",
+        "tweets_with_sentiment": []
+    },
+    {
+        "query": "#GOOGL stock price",
+        "tweets_with_sentiment": []
+    }
+]
