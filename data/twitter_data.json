@@ -46,5 +46,295 @@
             "message": "unmarshal message: unmarshal into *apiproxyv1.CallApiRequest: proto: (line 1:101): invalid value for string field value: 20"
         },
         "error": "Unexpected response format"
+    },
+    {
+        "query": "$AAPL stock",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "#AAPL stock price",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "$MSFT stock",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "#MSFT stock price",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "$GOOGL stock",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "#GOOGL stock price",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "$AAPL stock",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "#AAPL stock price",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "$MSFT stock",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "#MSFT stock price",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "$GOOGL stock",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "#GOOGL stock price",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "$AAPL stock",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "#AAPL stock price",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "$MSFT stock",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "#MSFT stock price",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "$GOOGL stock",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "#GOOGL stock price",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "$AAPL stock",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "#AAPL stock price",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "$MSFT stock",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "#MSFT stock price",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "$GOOGL stock",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "#GOOGL stock price",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "$AAPL stock",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "#AAPL stock price",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "$MSFT stock",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "#MSFT stock price",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "$GOOGL stock",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "#GOOGL stock price",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "$AAPL stock",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "#AAPL stock price",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "$MSFT stock",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "#MSFT stock price",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "$GOOGL stock",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "#GOOGL stock price",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "$AAPL stock",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "#AAPL stock price",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "$MSFT stock",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "#MSFT stock price",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "$GOOGL stock",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "#GOOGL stock price",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "$AAPL stock",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "#AAPL stock price",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "$MSFT stock",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "#MSFT stock price",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "$GOOGL stock",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "#GOOGL stock price",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "$AAPL stock",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "#AAPL stock price",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "$AAPL stock",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "#AAPL stock price",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "$MSFT stock",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "#MSFT stock price",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "$GOOGL stock",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "#GOOGL stock price",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "$AAPL stock",
+        "response": null,
+        "error": "Fetch failed"
+    },
+    {
+        "query": "#AAPL stock price",
+        "response": null,
+        "error": "Fetch failed"
     }
 ]

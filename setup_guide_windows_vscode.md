@@ -37,7 +37,7 @@ This guide will help you set up the Market Sentiment Analysis project on your Wi
     *   In the `market_sentiment_project` folder, you will find a file named `api_keys.py`.
     *   Open this file in VS Code.
     *   Replace the placeholder API token for Marketaux with your actual API key:
-        `API_TOKEN = "YOUR_MARKETAUX_API_KEY_HERE"`
+        `MARKETAUX_API_KEY = "YOUR_MARKETAUX_API_KEY_HERE"`
     *   Save the file.
 
 6.  **Verify NLTK Data (VADER Lexicon):**

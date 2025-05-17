@@ -9,9 +9,9 @@ project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.append(project_root)
 
 try:
-    from api_keys import API_TOKEN
+    from api_keys import MARKETAUX_API_KEY
 except ImportError:
-    print("Error: Could not import API_TOKEN from api_keys.py. Make sure api_keys.py exists in the project root directory (/home/ubuntu/market_sentiment_project/) and API_TOKEN is defined.")
+    print("Error: Could not import MARKETAUX_API_KEY from api_keys.py. Make sure api_keys.py exists in the project root directory (/home/ubuntu/market_sentiment_project/) and MARKETAUX_API_KEY is defined.")
     sys.exit(1)
 
 BASE_URL = "https://api.marketaux.com/v1/news/all"
@@ -19,7 +19,7 @@ BASE_URL = "https://api.marketaux.com/v1/news/all"
 # Define parameters
 SYMBOLS = ["AAPL", "MSFT", "GOOGL"] # Example stock symbols
 PARAMS = {
-    "api_token": API_TOKEN,
+    "api_token": MARKETAUX_API_KEY,
     "symbols": ",".join(SYMBOLS),
     "language": "en",
     "limit": 5 # Start with a small limit for testing, free tier usually has daily limits. Max is 50 for some plans.

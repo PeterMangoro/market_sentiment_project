@@ -3,79 +3,337 @@
         "limit is higher than your plan allows"
     ],
     "meta": {
-        "found": 159812,
+        "found": 160257,
         "returned": 3,
         "limit": 3,
         "page": 1
     },
     "data": [
         {
-            "uuid": "16145cee-ff7e-4d3f-95c0-0835263c6fbe",
-            "title": "ASX Market Open: Aussie market to open higher following Wall Street caution on trade talks | May 12, 2025",
-            "description": "The ASX200 is set to open higher on Monday, following cautious performances on Wall Street reflecting uncertainty over trade negotiations",
+            "uuid": "44b83d40-0288-4d51-932c-6d13ee5028a7",
+            "title": "Belajar Perubahan Organisasi dari Steve Jobs dengan Praktik Teori John Kotter di Dunia Nyata",
+            "description": "Perubahan dalam organisasi bukanlah hal yang mudah. Dibutuhkan visi, kepemimpinan yang kuat, dan strategi yang tepat untuk membawa perusahaan keluar dari krisis. Salah satu sosok sebagai contoh\u2026",
             "keywords": "",
-            "snippet": "Join our daily newsletter At The Bell to receive exclusive market insights\n\nThe ASX200 is set to open 0.72% higher today, following a cautious performance on Wa...",
-            "url": "https://themarketonline.com.au/asx-market-open-aussie-market-to-open-higher-following-wall-street-caution-on-trade-talks-may-12-2025-2025-05-12/",
-            "image_url": "https://cdn.jwplayer.com/thumbs/BHbC8C2J-1280.jpg",
+            "snippet": "Belajar Perubahan Organisasi dari Steve Jobs dengan Praktik Teori John Kotter di Dunia Nyata Dita Amelia Ihsani Follow 3 min read \u00b7 Just now Just now -- Share\n...",
+            "url": "https://medium.com/@ditamelia/belajar-perubahan-organisasi-dari-steve-jobs-dengan-praktik-teori-john-kotter-di-dunia-nyata-cb7652de9972",
+            "image_url": "https://miro.medium.com/v2/resize:fit:1200/1*jH_wKnIjGtMyNnBKiATMPA.jpeg",
             "language": "en",
-            "published_at": "2025-05-11T23:05:48.000000Z",
-            "source": "themarketherald.com.au",
+            "published_at": "2025-05-17T06:36:25.000000Z",
+            "source": "medium.com",
             "relevance_score": null,
             "entities": [
                 {
-                    "symbol": "AAPL",
+                    "symbol": "AAPL.BA",
                     "name": "Apple Inc.",
                     "exchange": null,
                     "exchange_long": null,
-                    "country": "us",
+                    "country": "ar",
                     "type": "equity",
                     "industry": "Technology",
-                    "match_score": 10.674506,
-                    "sentiment_score": -0.5267,
+                    "match_score": 18.423597,
+                    "sentiment_score": 0.08862,
                     "highlights": [
                         {
-                            "highlight": "On Spotify, <em>Apple</em>, and more.\n\nU[+188 characters]",
-                            "sentiment": -0.5267,
-                            "highlighted_in": "main_text"
-                        }
-                    ]
-                }
-            ],
-            "similar": []
-        },
-        {
-            "uuid": "d4567c39-41ef-4680-b401-478deeb9022d",
-            "title": "Is Apple Inc. (AAPL) the Best Stock to Buy According to Jim Simons\u2019 Renaissance Technologies?",
-            "description": "We recently published a list of 15 Best Stocks to Buy According to Jim Simons\u2019 Renaissance Technologies In this article, we are going to take a look at where Apple Inc. (NASDAQ:AAPL) stands against other best stocks to buy according to Jim Simons\u2019 Renaissance Technologies. Even after his passing in 2024, billionaire investor and mathematician [\u2026]",
-            "keywords": "Renaissance Technologies, Apple Inc., Jim Simons, hedge funds, Apple store, investment strategy, Apple Music, impressive returns",
-            "snippet": "We recently published a list of 15 Best Stocks to Buy According to Jim Simons\u2019 Renaissance Technologies In this article, we are going to take a look at where ...",
-            "url": "https://finance.yahoo.com/news/apple-inc-aapl-best-stock-205832445.html",
-            "image_url": "https://s.yimg.com/ny/api/res/1.2/e1QwhqQiBt5ecLL5Qx6Rkg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/bd47dc2e86b4a3086f845d200d9daf1f",
-            "language": "en",
-            "published_at": "2025-05-11T20:58:32.000000Z",
-            "source": "finance.yahoo.com",
-            "relevance_score": null,
-            "entities": [
-                {
-                    "symbol": "AAPL.NE",
-                    "name": "Apple Inc.",
-                    "exchange": null,
-                    "exchange_long": null,
-                    "country": "ca",
-                    "type": "equity",
-                    "industry": "Technology",
-                    "match_score": 45.54876,
-                    "sentiment_score": 0.7462,
-                    "highlights": [
-                        {
-                            "highlight": "We recently published a list of 15 Best [+255 characters]",
-                            "sentiment": 0.8555,
+                            "highlight": "Belajar Perubahan Organisasi dari Steve [+251 characters]",
+                            "sentiment": 0.3595,
                             "highlighted_in": "main_text"
                         },
                         {
-                            "highlight": "Is <em>Apple</em> <em>Inc</em>. (AAPL) the Best Stock to Buy According to Jim Simons\u2019 Renaissance Technologies?",
-                            "sentiment": 0.6369,
-                            "highlighted_in": "title"
+                            "highlight": "Salah satu sosok sebagai contoh terbaik [+159 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Menariknya, perjalanan Jobs dalam membal[+206 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Steve Jobs (A visionary who changed the [+169 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Namun, pada pertengahan 1990-an, <em>App[+313 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Mari kita lihat bagaimana Steve Jobs sec[+319 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Membentuk Koalisi Pendorong Perubahan (B[+193 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Mengembangkan Visi dan Strategi (Form a [+214 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Mengonsolidasikan dan Mempercepat Peruba[+190 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Terdapat hasil karya perusahaan teknolog[+336 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLD.BA",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 18.423597,
+                    "sentiment_score": 0.08862,
+                    "highlights": [
+                        {
+                            "highlight": "Belajar Perubahan Organisasi dari Steve [+251 characters]",
+                            "sentiment": 0.3595,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Salah satu sosok sebagai contoh terbaik [+159 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Menariknya, perjalanan Jobs dalam membal[+206 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Steve Jobs (A visionary who changed the [+169 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Namun, pada pertengahan 1990-an, <em>App[+313 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Mari kita lihat bagaimana Steve Jobs sec[+319 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Membentuk Koalisi Pendorong Perubahan (B[+193 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Mengembangkan Visi dan Strategi (Form a [+214 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Mengonsolidasikan dan Mempercepat Peruba[+190 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Terdapat hasil karya perusahaan teknolog[+336 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLC.BA",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 18.423597,
+                    "sentiment_score": 0.08862,
+                    "highlights": [
+                        {
+                            "highlight": "Belajar Perubahan Organisasi dari Steve [+251 characters]",
+                            "sentiment": 0.3595,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Salah satu sosok sebagai contoh terbaik [+159 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Menariknya, perjalanan Jobs dalam membal[+206 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Steve Jobs (A visionary who changed the [+169 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Namun, pada pertengahan 1990-an, <em>App[+313 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Mari kita lihat bagaimana Steve Jobs sec[+319 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Membentuk Koalisi Pendorong Perubahan (B[+193 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Mengembangkan Visi dan Strategi (Form a [+214 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Mengonsolidasikan dan Mempercepat Peruba[+190 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Terdapat hasil karya perusahaan teknolog[+336 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLCL.SN",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 18.423595,
+                    "sentiment_score": 0.08862,
+                    "highlights": [
+                        {
+                            "highlight": "Belajar Perubahan Organisasi dari Steve [+251 characters]",
+                            "sentiment": 0.3595,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Salah satu sosok sebagai contoh terbaik [+159 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Menariknya, perjalanan Jobs dalam membal[+206 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Steve Jobs (A visionary who changed the [+169 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Namun, pada pertengahan 1990-an, <em>App[+313 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Mari kita lihat bagaimana Steve Jobs sec[+319 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Membentuk Koalisi Pendorong Perubahan (B[+193 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Mengembangkan Visi dan Strategi (Form a [+214 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Mengonsolidasikan dan Mempercepat Peruba[+190 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Terdapat hasil karya perusahaan teknolog[+336 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.SN",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 18.423595,
+                    "sentiment_score": 0.08862,
+                    "highlights": [
+                        {
+                            "highlight": "Belajar Perubahan Organisasi dari Steve [+251 characters]",
+                            "sentiment": 0.3595,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Salah satu sosok sebagai contoh terbaik [+159 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Menariknya, perjalanan Jobs dalam membal[+206 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Steve Jobs (A visionary who changed the [+169 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Namun, pada pertengahan 1990-an, <em>App[+313 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Mari kita lihat bagaimana Steve Jobs sec[+319 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Membentuk Koalisi Pendorong Perubahan (B[+193 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Mengembangkan Visi dan Strategi (Form a [+214 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Mengonsolidasikan dan Mempercepat Peruba[+190 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Terdapat hasil karya perusahaan teknolog[+336 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
                         }
                     ]
                 },
@@ -87,18 +345,121 @@
                     "country": "us",
                     "type": "equity",
                     "industry": "Technology",
-                    "match_score": 54.60205,
-                    "sentiment_score": 0.7462,
+                    "match_score": 18.423609,
+                    "sentiment_score": 0.08862,
                     "highlights": [
                         {
-                            "highlight": "We recently published a list of 15 Best [+264 characters]",
-                            "sentiment": 0.8555,
+                            "highlight": "Belajar Perubahan Organisasi dari Steve [+251 characters]",
+                            "sentiment": 0.3595,
                             "highlighted_in": "main_text"
                         },
                         {
-                            "highlight": "Is <em>Apple</em> <em>Inc</em>. (AAPL) the Best Stock to Buy According to Jim Simons\u2019 Renaissance Technologies?",
-                            "sentiment": 0.6369,
-                            "highlighted_in": "title"
+                            "highlight": "Salah satu sosok sebagai contoh terbaik [+159 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Menariknya, perjalanan Jobs dalam membal[+206 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Steve Jobs (A visionary who changed the [+169 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Namun, pada pertengahan 1990-an, <em>App[+313 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Mari kita lihat bagaimana Steve Jobs sec[+319 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Membentuk Koalisi Pendorong Perubahan (B[+193 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Mengembangkan Visi dan Strategi (Form a [+214 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Mengonsolidasikan dan Mempercepat Peruba[+190 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Terdapat hasil karya perusahaan teknolog[+336 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.NE",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ca",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 18.423584,
+                    "sentiment_score": 0.08862,
+                    "highlights": [
+                        {
+                            "highlight": "Belajar Perubahan Organisasi dari Steve [+251 characters]",
+                            "sentiment": 0.3595,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Salah satu sosok sebagai contoh terbaik [+159 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Menariknya, perjalanan Jobs dalam membal[+206 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Steve Jobs (A visionary who changed the [+169 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Namun, pada pertengahan 1990-an, <em>App[+313 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Mari kita lihat bagaimana Steve Jobs sec[+319 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Membentuk Koalisi Pendorong Perubahan (B[+193 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Mengembangkan Visi dan Strategi (Form a [+214 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Mengonsolidasikan dan Mempercepat Peruba[+190 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Terdapat hasil karya perusahaan teknolog[+336 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
                         }
                     ]
                 },
@@ -110,18 +471,58 @@
                     "country": "de",
                     "type": "equity",
                     "industry": "Technology",
-                    "match_score": 45.54876,
-                    "sentiment_score": 0.7462,
+                    "match_score": 18.423668,
+                    "sentiment_score": 0.08862,
                     "highlights": [
                         {
-                            "highlight": "We recently published a list of 15 Best [+255 characters]",
-                            "sentiment": 0.8555,
+                            "highlight": "Belajar Perubahan Organisasi dari Steve [+251 characters]",
+                            "sentiment": 0.3595,
                             "highlighted_in": "main_text"
                         },
                         {
-                            "highlight": "Is <em>Apple</em> <em>Inc</em>. (AAPL) the Best Stock to Buy According to Jim Simons\u2019 Renaissance Technologies?",
-                            "sentiment": 0.6369,
-                            "highlighted_in": "title"
+                            "highlight": "Salah satu sosok sebagai contoh terbaik [+159 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Menariknya, perjalanan Jobs dalam membal[+206 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Steve Jobs (A visionary who changed the [+169 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Namun, pada pertengahan 1990-an, <em>App[+313 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Mari kita lihat bagaimana Steve Jobs sec[+319 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Membentuk Koalisi Pendorong Perubahan (B[+193 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Mengembangkan Visi dan Strategi (Form a [+214 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Mengonsolidasikan dan Mempercepat Peruba[+190 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Terdapat hasil karya perusahaan teknolog[+336 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
                         }
                     ]
                 },
@@ -133,17 +534,130 @@
                     "country": "mx",
                     "type": "equity",
                     "industry": "Technology",
-                    "match_score": 45.548927,
-                    "sentiment_score": 0.7462,
+                    "match_score": 18.423683,
+                    "sentiment_score": 0.08862,
                     "highlights": [
                         {
-                            "highlight": "We recently published a list of 15 Best [+255 characters]",
-                            "sentiment": 0.8555,
+                            "highlight": "Belajar Perubahan Organisasi dari Steve [+251 characters]",
+                            "sentiment": 0.3595,
                             "highlighted_in": "main_text"
                         },
                         {
-                            "highlight": "Is <em>Apple</em> <em>Inc</em>. (AAPL) the Best Stock to Buy According to Jim Simons\u2019 Renaissance Technologies?",
-                            "sentiment": 0.6369,
+                            "highlight": "Salah satu sosok sebagai contoh terbaik [+159 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Menariknya, perjalanan Jobs dalam membal[+206 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Steve Jobs (A visionary who changed the [+169 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Namun, pada pertengahan 1990-an, <em>App[+313 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Mari kita lihat bagaimana Steve Jobs sec[+319 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Membentuk Koalisi Pendorong Perubahan (B[+193 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Mengembangkan Visi dan Strategi (Form a [+214 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Mengonsolidasikan dan Mempercepat Peruba[+190 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Terdapat hasil karya perusahaan teknolog[+336 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        },
+        {
+            "uuid": "f53552a6-9954-4fba-9367-a7b17c7099b4",
+            "title": "ZoomInfo Just Changed Its Ticker to $GTM \u2013 Here\u2019s Why That Matters",
+            "description": "Why it matters, what is means, and shares jumped 7.4%.",
+            "keywords": "",
+            "snippet": "Hello and welcome to The GTM Newsletter by GTMnow \u2013 read by 50,000+ to scale their companies and careers. GTMnow shares insight around the go-to-market strate...",
+            "url": "https://gtmnow.com/zoominfo-just-changed-its-ticker-to-gtm-heres-why-that-matters/",
+            "image_url": "https://gtmnow.com/wp-content/uploads/7ba5bc29-4493-4b71-b4c6-e657f4616bde_1294x971.jpeg",
+            "language": "en",
+            "published_at": "2025-05-16T21:25:22.000000Z",
+            "source": "saleshacker.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 7.772759,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Listen on <em>Apple</em>, Spotify, YouTu[+267 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        },
+        {
+            "uuid": "a5fa5e2a-61e0-4037-a7d8-2a346c8e8879",
+            "title": "Apple Shows Its Ability To Pivot (NASDAQ:AAPL)",
+            "description": "Discover why Apple Inc.'s financial performance solidifies its position as a top investment choice despite challenges. Click for my post-earnings AAPL update.",
+            "keywords": "",
+            "snippet": "Retirement is complicated and you only get once chance to do it right. Don't miss out because you didn't know what was out there.\n\nThe Retirement Forum provides...",
+            "url": "https://seekingalpha.com/article/4787729-apple-shows-its-ability-to-pivot",
+            "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1705316992/image_1705316992.jpg?io=getty-c-w1536",
+            "language": "en",
+            "published_at": "2025-05-16T21:20:46.000000Z",
+            "source": "seekingalpha.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 83.063835,
+                    "sentiment_score": 0.0111,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Apple</em> <em>Inc</em>. (NASDAQ: <e[+144 characters]",
+                            "sentiment": -0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Apple</em> Shows Its Ability To Pivot (<em>NASDAQ:AAPL</em>)",
+                            "sentiment": 0.3182,
                             "highlighted_in": "title"
                         }
                     ]
@@ -156,17 +670,17 @@
                     "country": "ar",
                     "type": "equity",
                     "industry": "Technology",
-                    "match_score": 45.55009,
-                    "sentiment_score": 0.7462,
+                    "match_score": 30.28636,
+                    "sentiment_score": 0.0111,
                     "highlights": [
                         {
-                            "highlight": "We recently published a list of 15 Best [+255 characters]",
-                            "sentiment": 0.8555,
+                            "highlight": "<em>Apple</em> <em>Inc</em>. (NASDAQ: NA[+126 characters]",
+                            "sentiment": -0.296,
                             "highlighted_in": "main_text"
                         },
                         {
-                            "highlight": "Is <em>Apple</em> <em>Inc</em>. (AAPL) the Best Stock to Buy According to Jim Simons\u2019 Renaissance Technologies?",
-                            "sentiment": 0.6369,
+                            "highlight": "<em>Apple</em> Shows Its Ability To Pivot (NASDAQ:AAPL)",
+                            "sentiment": 0.3182,
                             "highlighted_in": "title"
                         }
                     ]
@@ -179,17 +693,17 @@
                     "country": "ar",
                     "type": "equity",
                     "industry": "N/A",
-                    "match_score": 45.55009,
-                    "sentiment_score": 0.7462,
+                    "match_score": 30.28636,
+                    "sentiment_score": 0.0111,
                     "highlights": [
                         {
-                            "highlight": "We recently published a list of 15 Best [+255 characters]",
-                            "sentiment": 0.8555,
+                            "highlight": "<em>Apple</em> <em>Inc</em>. (NASDAQ: NA[+126 characters]",
+                            "sentiment": -0.296,
                             "highlighted_in": "main_text"
                         },
                         {
-                            "highlight": "Is <em>Apple</em> <em>Inc</em>. (AAPL) the Best Stock to Buy According to Jim Simons\u2019 Renaissance Technologies?",
-                            "sentiment": 0.6369,
+                            "highlight": "<em>Apple</em> Shows Its Ability To Pivot (NASDAQ:AAPL)",
+                            "sentiment": 0.3182,
                             "highlighted_in": "title"
                         }
                     ]
@@ -202,17 +716,17 @@
                     "country": "ar",
                     "type": "equity",
                     "industry": "N/A",
-                    "match_score": 45.55009,
-                    "sentiment_score": 0.7462,
+                    "match_score": 30.286366,
+                    "sentiment_score": 0.0111,
                     "highlights": [
                         {
-                            "highlight": "We recently published a list of 15 Best [+255 characters]",
-                            "sentiment": 0.8555,
+                            "highlight": "<em>Apple</em> <em>Inc</em>. (NASDAQ: NA[+126 characters]",
+                            "sentiment": -0.296,
                             "highlighted_in": "main_text"
                         },
                         {
-                            "highlight": "Is <em>Apple</em> <em>Inc</em>. (AAPL) the Best Stock to Buy According to Jim Simons\u2019 Renaissance Technologies?",
-                            "sentiment": 0.6369,
+                            "highlight": "<em>Apple</em> Shows Its Ability To Pivot (NASDAQ:AAPL)",
+                            "sentiment": 0.3182,
                             "highlighted_in": "title"
                         }
                     ]
@@ -225,17 +739,17 @@
                     "country": "cl",
                     "type": "equity",
                     "industry": "N/A",
-                    "match_score": 45.550144,
-                    "sentiment_score": 0.7462,
+                    "match_score": 30.286366,
+                    "sentiment_score": 0.0111,
                     "highlights": [
                         {
-                            "highlight": "We recently published a list of 15 Best [+255 characters]",
-                            "sentiment": 0.8555,
+                            "highlight": "<em>Apple</em> <em>Inc</em>. (NASDAQ: NA[+126 characters]",
+                            "sentiment": -0.296,
                             "highlighted_in": "main_text"
                         },
                         {
-                            "highlight": "Is <em>Apple</em> <em>Inc</em>. (AAPL) the Best Stock to Buy According to Jim Simons\u2019 Renaissance Technologies?",
-                            "sentiment": 0.6369,
+                            "highlight": "<em>Apple</em> Shows Its Ability To Pivot (NASDAQ:AAPL)",
+                            "sentiment": 0.3182,
                             "highlighted_in": "title"
                         }
                     ]
@@ -248,123 +762,17 @@
                     "country": "cl",
                     "type": "equity",
                     "industry": "Technology",
-                    "match_score": 45.550144,
-                    "sentiment_score": 0.7462,
+                    "match_score": 30.286228,
+                    "sentiment_score": 0.0111,
                     "highlights": [
                         {
-                            "highlight": "We recently published a list of 15 Best [+255 characters]",
-                            "sentiment": 0.8555,
+                            "highlight": "<em>Apple</em> <em>Inc</em>. (NASDAQ: NA[+126 characters]",
+                            "sentiment": -0.296,
                             "highlighted_in": "main_text"
                         },
                         {
-                            "highlight": "Is <em>Apple</em> <em>Inc</em>. (AAPL) the Best Stock to Buy According to Jim Simons\u2019 Renaissance Technologies?",
-                            "sentiment": 0.6369,
-                            "highlighted_in": "title"
-                        }
-                    ]
-                }
-            ],
-            "similar": []
-        },
-        {
-            "uuid": "88ad205b-a6e4-4005-a1ec-fd7613b4c6d4",
-            "title": "Is Apple Inc. (AAPL) the Best Stock to Buy According to Jim Simons\u2019 Renaissance Technologies?",
-            "description": "We recently published a list of 15 Best Stocks to Buy According to Jim Simons\u2019 Renaissance Technologies In this article, we are going to take a look at where Apple Inc.",
-            "keywords": "",
-            "snippet": "Artificial intelligence is the greatest investment opportunity of our lifetime. The time to invest in groundbreaking AI is now, and this stock is a steal!\n\nAI i...",
-            "url": "https://www.insidermonkey.com/blog/is-apple-inc-aapl-the-best-stock-to-buy-according-to-jim-simons-renaissance-technologies-1530712/",
-            "image_url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/09/19155253/AAPL-insidermonkey-1695153171712.jpg",
-            "language": "en",
-            "published_at": "2025-05-11T20:58:32.000000Z",
-            "source": "insidermonkey.com",
-            "relevance_score": null,
-            "entities": [
-                {
-                    "symbol": "AAPL.BA",
-                    "name": "Apple Inc.",
-                    "exchange": null,
-                    "exchange_long": null,
-                    "country": "ar",
-                    "type": "equity",
-                    "industry": "Technology",
-                    "match_score": 45.54993,
-                    "sentiment_score": 0.6369,
-                    "highlights": [
-                        {
-                            "highlight": "Is <em>Apple</em> <em>Inc</em>. (AAPL) the Best Stock to Buy According to Jim Simons\u2019 Renaissance Technologies?",
-                            "sentiment": 0.6369,
-                            "highlighted_in": "title"
-                        }
-                    ]
-                },
-                {
-                    "symbol": "AAPLD.BA",
-                    "name": "APPLE INC",
-                    "exchange": null,
-                    "exchange_long": null,
-                    "country": "ar",
-                    "type": "equity",
-                    "industry": "N/A",
-                    "match_score": 45.54993,
-                    "sentiment_score": 0.6369,
-                    "highlights": [
-                        {
-                            "highlight": "Is <em>Apple</em> <em>Inc</em>. (AAPL) the Best Stock to Buy According to Jim Simons\u2019 Renaissance Technologies?",
-                            "sentiment": 0.6369,
-                            "highlighted_in": "title"
-                        }
-                    ]
-                },
-                {
-                    "symbol": "AAPLC.BA",
-                    "name": "APPLE INC",
-                    "exchange": null,
-                    "exchange_long": null,
-                    "country": "ar",
-                    "type": "equity",
-                    "industry": "N/A",
-                    "match_score": 45.54993,
-                    "sentiment_score": 0.6369,
-                    "highlights": [
-                        {
-                            "highlight": "Is <em>Apple</em> <em>Inc</em>. (AAPL) the Best Stock to Buy According to Jim Simons\u2019 Renaissance Technologies?",
-                            "sentiment": 0.6369,
-                            "highlighted_in": "title"
-                        }
-                    ]
-                },
-                {
-                    "symbol": "AAPLCL.SN",
-                    "name": "APPLE INC",
-                    "exchange": null,
-                    "exchange_long": null,
-                    "country": "cl",
-                    "type": "equity",
-                    "industry": "N/A",
-                    "match_score": 45.54985,
-                    "sentiment_score": 0.6369,
-                    "highlights": [
-                        {
-                            "highlight": "Is <em>Apple</em> <em>Inc</em>. (AAPL) the Best Stock to Buy According to Jim Simons\u2019 Renaissance Technologies?",
-                            "sentiment": 0.6369,
-                            "highlighted_in": "title"
-                        }
-                    ]
-                },
-                {
-                    "symbol": "AAPL.SN",
-                    "name": "Apple Inc.",
-                    "exchange": null,
-                    "exchange_long": null,
-                    "country": "cl",
-                    "type": "equity",
-                    "industry": "Technology",
-                    "match_score": 45.54985,
-                    "sentiment_score": 0.6369,
-                    "highlights": [
-                        {
-                            "highlight": "Is <em>Apple</em> <em>Inc</em>. (AAPL) the Best Stock to Buy According to Jim Simons\u2019 Renaissance Technologies?",
-                            "sentiment": 0.6369,
+                            "highlight": "<em>Apple</em> Shows Its Ability To Pivot (NASDAQ:AAPL)",
+                            "sentiment": 0.3182,
                             "highlighted_in": "title"
                         }
                     ]
@@ -377,30 +785,17 @@
                     "country": "ca",
                     "type": "equity",
                     "industry": "Technology",
-                    "match_score": 45.54876,
-                    "sentiment_score": 0.6369,
+                    "match_score": 30.285995,
+                    "sentiment_score": 0.0111,
                     "highlights": [
                         {
-                            "highlight": "Is <em>Apple</em> <em>Inc</em>. (AAPL) the Best Stock to Buy According to Jim Simons\u2019 Renaissance Technologies?",
-                            "sentiment": 0.6369,
-                            "highlighted_in": "title"
-                        }
-                    ]
-                },
-                {
-                    "symbol": "AAPL",
-                    "name": "Apple Inc.",
-                    "exchange": null,
-                    "exchange_long": null,
-                    "country": "us",
-                    "type": "equity",
-                    "industry": "Technology",
-                    "match_score": 45.548847,
-                    "sentiment_score": 0.6369,
-                    "highlights": [
+                            "highlight": "<em>Apple</em> <em>Inc</em>. (NASDAQ: NA[+126 characters]",
+                            "sentiment": -0.296,
+                            "highlighted_in": "main_text"
+                        },
                         {
-                            "highlight": "Is <em>Apple</em> <em>Inc</em>. (AAPL) the Best Stock to Buy According to Jim Simons\u2019 Renaissance Technologies?",
-                            "sentiment": 0.6369,
+                            "highlight": "<em>Apple</em> Shows Its Ability To Pivot (NASDAQ:AAPL)",
+                            "sentiment": 0.3182,
                             "highlighted_in": "title"
                         }
                     ]
@@ -413,12 +808,17 @@
                     "country": "de",
                     "type": "equity",
                     "industry": "Technology",
-                    "match_score": 45.54876,
-                    "sentiment_score": 0.6369,
+                    "match_score": 30.285936,
+                    "sentiment_score": 0.0111,
                     "highlights": [
                         {
-                            "highlight": "Is <em>Apple</em> <em>Inc</em>. (AAPL) the Best Stock to Buy According to Jim Simons\u2019 Renaissance Technologies?",
-                            "sentiment": 0.6369,
+                            "highlight": "<em>Apple</em> <em>Inc</em>. (NASDAQ: NA[+126 characters]",
+                            "sentiment": -0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Apple</em> Shows Its Ability To Pivot (NASDAQ:AAPL)",
+                            "sentiment": 0.3182,
                             "highlighted_in": "title"
                         }
                     ]
@@ -431,12 +831,17 @@
                     "country": "mx",
                     "type": "equity",
                     "industry": "Technology",
-                    "match_score": 45.548927,
-                    "sentiment_score": 0.6369,
+                    "match_score": 30.285946,
+                    "sentiment_score": 0.0111,
                     "highlights": [
                         {
-                            "highlight": "Is <em>Apple</em> <em>Inc</em>. (AAPL) the Best Stock to Buy According to Jim Simons\u2019 Renaissance Technologies?",
-                            "sentiment": 0.6369,
+                            "highlight": "<em>Apple</em> <em>Inc</em>. (NASDAQ: NA[+126 characters]",
+                            "sentiment": -0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Apple</em> Shows Its Ability To Pivot (NASDAQ:AAPL)",
+                            "sentiment": 0.3182,
                             "highlighted_in": "title"
                         }
                     ]

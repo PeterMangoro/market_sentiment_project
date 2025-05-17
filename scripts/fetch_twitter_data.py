@@ -6,7 +6,7 @@ import sys
 # Add the project root directory to the Python path to find data_api.py and api_keys.py
 project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.append(project_root)
-sys.path.append("/opt/.manus/.sandbox-runtime") # For data_api module
+# sys.path.append("/opt/.manus/.sandbox-runtime") # For data_api module
 
 from data_api import ApiClient
 
@@ -26,11 +26,11 @@ def fetch_twitter_data(query, count, search_type):
     print(f"Fetching tweets for query: 	{query}	, count: {count}, type: {search_type}")
     try:
         response = client.call_api(
-            "Twitter/search_twitter", 
+            "tweets/search/recent", 
             query={
                 "query": query,
-                "count": count,
-                "type": search_type
+                "max_results": count,
+                # "type": search_type
             }
         )
         # The API call_api already returns a parsed dictionary if the response is JSON
