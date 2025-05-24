@@ -1,75 +1,102 @@
-#!/usr/bin/env python3.11
-import json
 import os
 import sys
+import json
 import time
+from datetime import datetime,timedelta
 
-# Add the project root directory to the Python path for data_api module
-project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+# Add project root to path to import api_keys
+project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 sys.path.append(project_root)
-sys.path.append("/opt/.manus/.sandbox-runtime") # For data_api module
 
-from data_api import ApiClient
+try:
+    import yfinance as yf
+except ImportError:
+    print("Please install yfinance using 'pip install yfinance'")
+    sys.exit(1)
 
-# Define parameters
-SYMBOLS = ["AAPL", "MSFT", "GOOGL"] # Example stock symbols
-DATA_DIR = os.path.join(project_root, "data", "stock_data")
-RANGE = "5y" # Fetch 5 years of historical data
-INTERVAL = "1d" # Daily interval
+# Constants
+SYMBOLS = ["AAPL", "MSFT", "GOOGL"]  # Stock symbols to fetch data for
+DATA_DIR = os.path.join(project_root,"data","stock_data")
+DAYS_BACK = 365 # 1 year of historical data
 
-client = ApiClient()
+# Create data directory if it doesn't exist
+os.makedirs(DATA_DIR, exist_ok=True)
 
-def fetch_stock_history(symbol, range_val, interval_val):
-    """Fetches historical stock data using the YahooFinance/get_stock_chart API."""
-    print(f"Fetching historical stock data for symbol: {symbol}, range: {range_val}, interval: {interval_val}")
-    try:
-        response = client.call_api(
-            "YahooFinance/get_stock_chart", 
-            query={
-                "symbol": symbol,
-                "range": range_val,
-                "interval": interval_val,
-                "includeAdjustedClose": True
-            }
-        )
-        print(f"Successfully fetched stock data for symbol: {symbol}")
-        return response
-    except Exception as e:
-        print(f"Error fetching stock data for symbol {symbol}: {e}")
-        return None
-
-def save_data_to_json(data, symbol, directory):
-    """Saves data to a JSON file in the specified directory."""
-    os.makedirs(directory, exist_ok=True)
-    filename = f"{symbol}_stock_data.json"
-    filepath = os.path.join(directory, filename)
+# Function to fetch stock data using yfinance
+def fetch_stock_data(symbol,period="1y",interval="1d"):
     
     try:
-        with open(filepath, "w") as f:
-            json.dump(data, f, indent=4)
-        print(f"Stock data for {symbol} successfully saved to {filepath}")
-    except IOError as e:
-        print(f"Error saving stock data for {symbol} to {filepath}: {e}")
+        #Create a ticker object for each symbol
+        ticker = yf.Ticker(symbol)
+
+        # Fetch historical data
+        data = ticker.history(period=period, interval=interval)
+
+        # Convert to format similar to Yahoo Finance
+        timestamps = data.index.astype('int64') // 10**9
+
+        result = {
+            "chart": {
+                "result":[{
+                    "meta":{
+                        "symbol": symbol,
+                        "currency": "USD",
+                        "exchangeName": "NMS",
+                        "instrumentType": "EQUITY",
+                        "timezone": "America/New_York",
+                    },
+                    "timestamp": timestamps.tolist(),
+                    "indicators": {
+                        "quote": [{
+                            "open": data['Open'].tolist(),
+                            "close": data['Close'].tolist(),
+                            "high": data['High'].tolist(),
+                            "low": data['Low'].tolist(),
+                            "volume": data['Volume'].tolist()
+                        }],
+                        "adjclose": [{
+                            "adjclose": data['Close'].tolist()
+                        }]
+                    }
+                }],
+                "error": None
+            }
+        }
+
+        return result
+    except Exception as e:
+        print(f"Error fetching data for {symbol}: {e}")
+        return None
+    
+# Function to save stock data to a JSON file
+def save_stock_data_to_file(stock_data, symbol, output_dir):
+    try:
+        output_file = os.path.join(output_dir, f"{symbol}_stock_data.json")
+        with open(output_file, "w") as f:
+            json.dump(stock_data, f, indent=4)
+            print(f"Stock data for {symbol} saved to {output_file}")
+            return True
+    except Exception as e:
+        print(f"Error saving stock data for {symbol} to file: {e}")
+        return False
+    
+# Main function
+def main():
+    print(f"Fetching stock data for symbols: {', '.join(SYMBOLS)}")
+
+    success_count = 0
+    for symbol in SYMBOLS:
+        # Fetch stock data
+        stock_data = fetch_stock_data(symbol)
+
+        if stock_data:
+            # Save stock data to file
+            if save_stock_data_to_file(stock_data, symbol, DATA_DIR):
+                success_count += 1
+
+        time.sleep(1) # Sleep to avoid hitting API rate limits
+    print(f"Successfully fetched and saved data for {success_count} out of {len(SYMBOLS)} symbols.")
 
 if __name__ == "__main__":
-    print("Starting historical stock data fetch...")
-    
-    for stock_symbol in SYMBOLS:
-        print(f"Processing symbol: {stock_symbol}")
-        stock_data_response = fetch_stock_history(symbol=stock_symbol, range_val=RANGE, interval_val=INTERVAL)
-        
-        if stock_data_response and stock_data_response.get("chart") and stock_data_response["chart"].get("result"):
-            save_data_to_json(stock_data_response, stock_symbol, DATA_DIR)
-        elif stock_data_response:
-            print(f"Fetched data for symbol {stock_symbol}, but it might be empty or in an unexpected format.")
-            # Save raw response for inspection if needed
-            save_data_to_json(stock_data_response, f"{stock_symbol}_stock_data_raw_unexpected", DATA_DIR)
-            print(f"Raw response for {stock_symbol} saved for inspection.")
-        else:
-            print(f"Failed to fetch stock data for symbol: {stock_symbol}")
-        
-        # Add a small delay to avoid hitting API rate limits, if any (though not explicitly stated for this internal API)
-        time.sleep(1) 
-            
-    print("Finished fetching historical stock data.")
+    main()
 

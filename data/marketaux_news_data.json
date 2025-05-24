@@ -1,853 +1,129 @@
-{
-    "warnings": [
-        "limit is higher than your plan allows"
-    ],
-    "meta": {
-        "found": 160257,
-        "returned": 3,
-        "limit": 3,
-        "page": 1
+[
+    {
+        "uuid": "af009903-8f7a-40e0-b471-7e0d86e22439",
+        "title": "Trump's tariff threat at Apple is 'frustrating situation for investors,' Wedbush says (AAPL:NASDAQ)",
+        "description": "President Trump's threat that Apple (AAPL) will have to pay a 25% tariff on iPhones not made in the U.S. adds to a \u201cfrustrating situation for investors,\u201d Wedbush Securities said. Read for more.",
+        "keywords": "",
+        "snippet": "President Trump's threat that Apple (NASDAQ:AAPL) will have to pay a 25% tariff on iPhones not made in the U.S. adds to a \u201cfrustrating situation for investors...",
+        "url": "https://seekingalpha.com/news/4451985-trumps-tariff-threat-at-apple-is-frustrating-situation-for-investors-wedbush-says",
+        "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1698903380/image_1698903380.jpg?io=getty-c-w750",
+        "language": "en",
+        "published_at": "2025-05-23T12:33:54.000000Z",
+        "source": "seekingalpha.com",
+        "relevance_score": null,
+        "entities": [
+            {
+                "symbol": "AAPL",
+                "name": "Apple Inc.",
+                "exchange": null,
+                "exchange_long": null,
+                "country": "us",
+                "type": "equity",
+                "industry": "Technology",
+                "match_score": 31.306887,
+                "sentiment_score": -0.5624,
+                "highlights": [
+                    {
+                        "highlight": "President Trump's threat that <em>Apple<[+253 characters]",
+                        "sentiment": -0.3818,
+                        "highlighted_in": "main_text"
+                    },
+                    {
+                        "highlight": "Trump's tariff threat at <em>Apple</em> is 'frustrating situation for investors,' Wedbush says (AAPL:NASDAQ)",
+                        "sentiment": -0.743,
+                        "highlighted_in": "title"
+                    }
+                ]
+            }
+        ],
+        "similar": []
     },
-    "data": [
-        {
-            "uuid": "44b83d40-0288-4d51-932c-6d13ee5028a7",
-            "title": "Belajar Perubahan Organisasi dari Steve Jobs dengan Praktik Teori John Kotter di Dunia Nyata",
-            "description": "Perubahan dalam organisasi bukanlah hal yang mudah. Dibutuhkan visi, kepemimpinan yang kuat, dan strategi yang tepat untuk membawa perusahaan keluar dari krisis. Salah satu sosok sebagai contoh\u2026",
-            "keywords": "",
-            "snippet": "Belajar Perubahan Organisasi dari Steve Jobs dengan Praktik Teori John Kotter di Dunia Nyata Dita Amelia Ihsani Follow 3 min read \u00b7 Just now Just now -- Share\n...",
-            "url": "https://medium.com/@ditamelia/belajar-perubahan-organisasi-dari-steve-jobs-dengan-praktik-teori-john-kotter-di-dunia-nyata-cb7652de9972",
-            "image_url": "https://miro.medium.com/v2/resize:fit:1200/1*jH_wKnIjGtMyNnBKiATMPA.jpeg",
-            "language": "en",
-            "published_at": "2025-05-17T06:36:25.000000Z",
-            "source": "medium.com",
-            "relevance_score": null,
-            "entities": [
-                {
-                    "symbol": "AAPL.BA",
-                    "name": "Apple Inc.",
-                    "exchange": null,
-                    "exchange_long": null,
-                    "country": "ar",
-                    "type": "equity",
-                    "industry": "Technology",
-                    "match_score": 18.423597,
-                    "sentiment_score": 0.08862,
-                    "highlights": [
-                        {
-                            "highlight": "Belajar Perubahan Organisasi dari Steve [+251 characters]",
-                            "sentiment": 0.3595,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Salah satu sosok sebagai contoh terbaik [+159 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Menariknya, perjalanan Jobs dalam membal[+206 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Steve Jobs (A visionary who changed the [+169 characters]",
-                            "sentiment": 0.5267,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Namun, pada pertengahan 1990-an, <em>App[+313 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Mari kita lihat bagaimana Steve Jobs sec[+319 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Membentuk Koalisi Pendorong Perubahan (B[+193 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Mengembangkan Visi dan Strategi (Form a [+214 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Mengonsolidasikan dan Mempercepat Peruba[+190 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Terdapat hasil karya perusahaan teknolog[+336 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        }
-                    ]
-                },
-                {
-                    "symbol": "AAPLD.BA",
-                    "name": "APPLE INC",
-                    "exchange": null,
-                    "exchange_long": null,
-                    "country": "ar",
-                    "type": "equity",
-                    "industry": "N/A",
-                    "match_score": 18.423597,
-                    "sentiment_score": 0.08862,
-                    "highlights": [
-                        {
-                            "highlight": "Belajar Perubahan Organisasi dari Steve [+251 characters]",
-                            "sentiment": 0.3595,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Salah satu sosok sebagai contoh terbaik [+159 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Menariknya, perjalanan Jobs dalam membal[+206 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Steve Jobs (A visionary who changed the [+169 characters]",
-                            "sentiment": 0.5267,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Namun, pada pertengahan 1990-an, <em>App[+313 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Mari kita lihat bagaimana Steve Jobs sec[+319 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Membentuk Koalisi Pendorong Perubahan (B[+193 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Mengembangkan Visi dan Strategi (Form a [+214 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Mengonsolidasikan dan Mempercepat Peruba[+190 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Terdapat hasil karya perusahaan teknolog[+336 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        }
-                    ]
-                },
-                {
-                    "symbol": "AAPLC.BA",
-                    "name": "APPLE INC",
-                    "exchange": null,
-                    "exchange_long": null,
-                    "country": "ar",
-                    "type": "equity",
-                    "industry": "N/A",
-                    "match_score": 18.423597,
-                    "sentiment_score": 0.08862,
-                    "highlights": [
-                        {
-                            "highlight": "Belajar Perubahan Organisasi dari Steve [+251 characters]",
-                            "sentiment": 0.3595,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Salah satu sosok sebagai contoh terbaik [+159 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Menariknya, perjalanan Jobs dalam membal[+206 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Steve Jobs (A visionary who changed the [+169 characters]",
-                            "sentiment": 0.5267,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Namun, pada pertengahan 1990-an, <em>App[+313 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Mari kita lihat bagaimana Steve Jobs sec[+319 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Membentuk Koalisi Pendorong Perubahan (B[+193 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Mengembangkan Visi dan Strategi (Form a [+214 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Mengonsolidasikan dan Mempercepat Peruba[+190 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Terdapat hasil karya perusahaan teknolog[+336 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        }
-                    ]
-                },
-                {
-                    "symbol": "AAPLCL.SN",
-                    "name": "APPLE INC",
-                    "exchange": null,
-                    "exchange_long": null,
-                    "country": "cl",
-                    "type": "equity",
-                    "industry": "N/A",
-                    "match_score": 18.423595,
-                    "sentiment_score": 0.08862,
-                    "highlights": [
-                        {
-                            "highlight": "Belajar Perubahan Organisasi dari Steve [+251 characters]",
-                            "sentiment": 0.3595,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Salah satu sosok sebagai contoh terbaik [+159 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Menariknya, perjalanan Jobs dalam membal[+206 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Steve Jobs (A visionary who changed the [+169 characters]",
-                            "sentiment": 0.5267,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Namun, pada pertengahan 1990-an, <em>App[+313 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Mari kita lihat bagaimana Steve Jobs sec[+319 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Membentuk Koalisi Pendorong Perubahan (B[+193 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Mengembangkan Visi dan Strategi (Form a [+214 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Mengonsolidasikan dan Mempercepat Peruba[+190 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Terdapat hasil karya perusahaan teknolog[+336 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        }
-                    ]
-                },
-                {
-                    "symbol": "AAPL.SN",
-                    "name": "Apple Inc.",
-                    "exchange": null,
-                    "exchange_long": null,
-                    "country": "cl",
-                    "type": "equity",
-                    "industry": "Technology",
-                    "match_score": 18.423595,
-                    "sentiment_score": 0.08862,
-                    "highlights": [
-                        {
-                            "highlight": "Belajar Perubahan Organisasi dari Steve [+251 characters]",
-                            "sentiment": 0.3595,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Salah satu sosok sebagai contoh terbaik [+159 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Menariknya, perjalanan Jobs dalam membal[+206 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Steve Jobs (A visionary who changed the [+169 characters]",
-                            "sentiment": 0.5267,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Namun, pada pertengahan 1990-an, <em>App[+313 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Mari kita lihat bagaimana Steve Jobs sec[+319 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Membentuk Koalisi Pendorong Perubahan (B[+193 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Mengembangkan Visi dan Strategi (Form a [+214 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Mengonsolidasikan dan Mempercepat Peruba[+190 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Terdapat hasil karya perusahaan teknolog[+336 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        }
-                    ]
-                },
-                {
-                    "symbol": "AAPL",
-                    "name": "Apple Inc.",
-                    "exchange": null,
-                    "exchange_long": null,
-                    "country": "us",
-                    "type": "equity",
-                    "industry": "Technology",
-                    "match_score": 18.423609,
-                    "sentiment_score": 0.08862,
-                    "highlights": [
-                        {
-                            "highlight": "Belajar Perubahan Organisasi dari Steve [+251 characters]",
-                            "sentiment": 0.3595,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Salah satu sosok sebagai contoh terbaik [+159 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Menariknya, perjalanan Jobs dalam membal[+206 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Steve Jobs (A visionary who changed the [+169 characters]",
-                            "sentiment": 0.5267,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Namun, pada pertengahan 1990-an, <em>App[+313 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Mari kita lihat bagaimana Steve Jobs sec[+319 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Membentuk Koalisi Pendorong Perubahan (B[+193 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Mengembangkan Visi dan Strategi (Form a [+214 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Mengonsolidasikan dan Mempercepat Peruba[+190 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Terdapat hasil karya perusahaan teknolog[+336 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        }
-                    ]
-                },
-                {
-                    "symbol": "AAPL.NE",
-                    "name": "Apple Inc.",
-                    "exchange": null,
-                    "exchange_long": null,
-                    "country": "ca",
-                    "type": "equity",
-                    "industry": "Technology",
-                    "match_score": 18.423584,
-                    "sentiment_score": 0.08862,
-                    "highlights": [
-                        {
-                            "highlight": "Belajar Perubahan Organisasi dari Steve [+251 characters]",
-                            "sentiment": 0.3595,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Salah satu sosok sebagai contoh terbaik [+159 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Menariknya, perjalanan Jobs dalam membal[+206 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Steve Jobs (A visionary who changed the [+169 characters]",
-                            "sentiment": 0.5267,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Namun, pada pertengahan 1990-an, <em>App[+313 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Mari kita lihat bagaimana Steve Jobs sec[+319 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Membentuk Koalisi Pendorong Perubahan (B[+193 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Mengembangkan Visi dan Strategi (Form a [+214 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Mengonsolidasikan dan Mempercepat Peruba[+190 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Terdapat hasil karya perusahaan teknolog[+336 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        }
-                    ]
-                },
-                {
-                    "symbol": "APC.DE",
-                    "name": "Apple Inc.",
-                    "exchange": null,
-                    "exchange_long": null,
-                    "country": "de",
-                    "type": "equity",
-                    "industry": "Technology",
-                    "match_score": 18.423668,
-                    "sentiment_score": 0.08862,
-                    "highlights": [
-                        {
-                            "highlight": "Belajar Perubahan Organisasi dari Steve [+251 characters]",
-                            "sentiment": 0.3595,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Salah satu sosok sebagai contoh terbaik [+159 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Menariknya, perjalanan Jobs dalam membal[+206 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Steve Jobs (A visionary who changed the [+169 characters]",
-                            "sentiment": 0.5267,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Namun, pada pertengahan 1990-an, <em>App[+313 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Mari kita lihat bagaimana Steve Jobs sec[+319 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Membentuk Koalisi Pendorong Perubahan (B[+193 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Mengembangkan Visi dan Strategi (Form a [+214 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Mengonsolidasikan dan Mempercepat Peruba[+190 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Terdapat hasil karya perusahaan teknolog[+336 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        }
-                    ]
-                },
-                {
-                    "symbol": "AAPL.MX",
-                    "name": "Apple Inc.",
-                    "exchange": null,
-                    "exchange_long": null,
-                    "country": "mx",
-                    "type": "equity",
-                    "industry": "Technology",
-                    "match_score": 18.423683,
-                    "sentiment_score": 0.08862,
-                    "highlights": [
-                        {
-                            "highlight": "Belajar Perubahan Organisasi dari Steve [+251 characters]",
-                            "sentiment": 0.3595,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Salah satu sosok sebagai contoh terbaik [+159 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Menariknya, perjalanan Jobs dalam membal[+206 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Steve Jobs (A visionary who changed the [+169 characters]",
-                            "sentiment": 0.5267,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Namun, pada pertengahan 1990-an, <em>App[+313 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Mari kita lihat bagaimana Steve Jobs sec[+319 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Membentuk Koalisi Pendorong Perubahan (B[+193 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Mengembangkan Visi dan Strategi (Form a [+214 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Mengonsolidasikan dan Mempercepat Peruba[+190 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "Terdapat hasil karya perusahaan teknolog[+336 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        }
-                    ]
-                }
-            ],
-            "similar": []
-        },
-        {
-            "uuid": "f53552a6-9954-4fba-9367-a7b17c7099b4",
-            "title": "ZoomInfo Just Changed Its Ticker to $GTM \u2013 Here\u2019s Why That Matters",
-            "description": "Why it matters, what is means, and shares jumped 7.4%.",
-            "keywords": "",
-            "snippet": "Hello and welcome to The GTM Newsletter by GTMnow \u2013 read by 50,000+ to scale their companies and careers. GTMnow shares insight around the go-to-market strate...",
-            "url": "https://gtmnow.com/zoominfo-just-changed-its-ticker-to-gtm-heres-why-that-matters/",
-            "image_url": "https://gtmnow.com/wp-content/uploads/7ba5bc29-4493-4b71-b4c6-e657f4616bde_1294x971.jpeg",
-            "language": "en",
-            "published_at": "2025-05-16T21:25:22.000000Z",
-            "source": "saleshacker.com",
-            "relevance_score": null,
-            "entities": [
-                {
-                    "symbol": "AAPL",
-                    "name": "Apple Inc.",
-                    "exchange": null,
-                    "exchange_long": null,
-                    "country": "us",
-                    "type": "equity",
-                    "industry": "Technology",
-                    "match_score": 7.772759,
-                    "sentiment_score": 0,
-                    "highlights": [
-                        {
-                            "highlight": "Listen on <em>Apple</em>, Spotify, YouTu[+267 characters]",
-                            "sentiment": 0,
-                            "highlighted_in": "main_text"
-                        }
-                    ]
-                }
-            ],
-            "similar": []
-        },
-        {
-            "uuid": "a5fa5e2a-61e0-4037-a7d8-2a346c8e8879",
-            "title": "Apple Shows Its Ability To Pivot (NASDAQ:AAPL)",
-            "description": "Discover why Apple Inc.'s financial performance solidifies its position as a top investment choice despite challenges. Click for my post-earnings AAPL update.",
-            "keywords": "",
-            "snippet": "Retirement is complicated and you only get once chance to do it right. Don't miss out because you didn't know what was out there.\n\nThe Retirement Forum provides...",
-            "url": "https://seekingalpha.com/article/4787729-apple-shows-its-ability-to-pivot",
-            "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1705316992/image_1705316992.jpg?io=getty-c-w1536",
-            "language": "en",
-            "published_at": "2025-05-16T21:20:46.000000Z",
-            "source": "seekingalpha.com",
-            "relevance_score": null,
-            "entities": [
-                {
-                    "symbol": "AAPL",
-                    "name": "Apple Inc.",
-                    "exchange": null,
-                    "exchange_long": null,
-                    "country": "us",
-                    "type": "equity",
-                    "industry": "Technology",
-                    "match_score": 83.063835,
-                    "sentiment_score": 0.0111,
-                    "highlights": [
-                        {
-                            "highlight": "<em>Apple</em> <em>Inc</em>. (NASDAQ: <e[+144 characters]",
-                            "sentiment": -0.296,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "<em>Apple</em> Shows Its Ability To Pivot (<em>NASDAQ:AAPL</em>)",
-                            "sentiment": 0.3182,
-                            "highlighted_in": "title"
-                        }
-                    ]
-                },
-                {
-                    "symbol": "AAPL.BA",
-                    "name": "Apple Inc.",
-                    "exchange": null,
-                    "exchange_long": null,
-                    "country": "ar",
-                    "type": "equity",
-                    "industry": "Technology",
-                    "match_score": 30.28636,
-                    "sentiment_score": 0.0111,
-                    "highlights": [
-                        {
-                            "highlight": "<em>Apple</em> <em>Inc</em>. (NASDAQ: NA[+126 characters]",
-                            "sentiment": -0.296,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "<em>Apple</em> Shows Its Ability To Pivot (NASDAQ:AAPL)",
-                            "sentiment": 0.3182,
-                            "highlighted_in": "title"
-                        }
-                    ]
-                },
-                {
-                    "symbol": "AAPLD.BA",
-                    "name": "APPLE INC",
-                    "exchange": null,
-                    "exchange_long": null,
-                    "country": "ar",
-                    "type": "equity",
-                    "industry": "N/A",
-                    "match_score": 30.28636,
-                    "sentiment_score": 0.0111,
-                    "highlights": [
-                        {
-                            "highlight": "<em>Apple</em> <em>Inc</em>. (NASDAQ: NA[+126 characters]",
-                            "sentiment": -0.296,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "<em>Apple</em> Shows Its Ability To Pivot (NASDAQ:AAPL)",
-                            "sentiment": 0.3182,
-                            "highlighted_in": "title"
-                        }
-                    ]
-                },
-                {
-                    "symbol": "AAPLC.BA",
-                    "name": "APPLE INC",
-                    "exchange": null,
-                    "exchange_long": null,
-                    "country": "ar",
-                    "type": "equity",
-                    "industry": "N/A",
-                    "match_score": 30.286366,
-                    "sentiment_score": 0.0111,
-                    "highlights": [
-                        {
-                            "highlight": "<em>Apple</em> <em>Inc</em>. (NASDAQ: NA[+126 characters]",
-                            "sentiment": -0.296,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "<em>Apple</em> Shows Its Ability To Pivot (NASDAQ:AAPL)",
-                            "sentiment": 0.3182,
-                            "highlighted_in": "title"
-                        }
-                    ]
-                },
-                {
-                    "symbol": "AAPLCL.SN",
-                    "name": "APPLE INC",
-                    "exchange": null,
-                    "exchange_long": null,
-                    "country": "cl",
-                    "type": "equity",
-                    "industry": "N/A",
-                    "match_score": 30.286366,
-                    "sentiment_score": 0.0111,
-                    "highlights": [
-                        {
-                            "highlight": "<em>Apple</em> <em>Inc</em>. (NASDAQ: NA[+126 characters]",
-                            "sentiment": -0.296,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "<em>Apple</em> Shows Its Ability To Pivot (NASDAQ:AAPL)",
-                            "sentiment": 0.3182,
-                            "highlighted_in": "title"
-                        }
-                    ]
-                },
-                {
-                    "symbol": "AAPL.SN",
-                    "name": "Apple Inc.",
-                    "exchange": null,
-                    "exchange_long": null,
-                    "country": "cl",
-                    "type": "equity",
-                    "industry": "Technology",
-                    "match_score": 30.286228,
-                    "sentiment_score": 0.0111,
-                    "highlights": [
-                        {
-                            "highlight": "<em>Apple</em> <em>Inc</em>. (NASDAQ: NA[+126 characters]",
-                            "sentiment": -0.296,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "<em>Apple</em> Shows Its Ability To Pivot (NASDAQ:AAPL)",
-                            "sentiment": 0.3182,
-                            "highlighted_in": "title"
-                        }
-                    ]
-                },
-                {
-                    "symbol": "AAPL.NE",
-                    "name": "Apple Inc.",
-                    "exchange": null,
-                    "exchange_long": null,
-                    "country": "ca",
-                    "type": "equity",
-                    "industry": "Technology",
-                    "match_score": 30.285995,
-                    "sentiment_score": 0.0111,
-                    "highlights": [
-                        {
-                            "highlight": "<em>Apple</em> <em>Inc</em>. (NASDAQ: NA[+126 characters]",
-                            "sentiment": -0.296,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "<em>Apple</em> Shows Its Ability To Pivot (NASDAQ:AAPL)",
-                            "sentiment": 0.3182,
-                            "highlighted_in": "title"
-                        }
-                    ]
-                },
-                {
-                    "symbol": "APC.DE",
-                    "name": "Apple Inc.",
-                    "exchange": null,
-                    "exchange_long": null,
-                    "country": "de",
-                    "type": "equity",
-                    "industry": "Technology",
-                    "match_score": 30.285936,
-                    "sentiment_score": 0.0111,
-                    "highlights": [
-                        {
-                            "highlight": "<em>Apple</em> <em>Inc</em>. (NASDAQ: NA[+126 characters]",
-                            "sentiment": -0.296,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "<em>Apple</em> Shows Its Ability To Pivot (NASDAQ:AAPL)",
-                            "sentiment": 0.3182,
-                            "highlighted_in": "title"
-                        }
-                    ]
-                },
-                {
-                    "symbol": "AAPL.MX",
-                    "name": "Apple Inc.",
-                    "exchange": null,
-                    "exchange_long": null,
-                    "country": "mx",
-                    "type": "equity",
-                    "industry": "Technology",
-                    "match_score": 30.285946,
-                    "sentiment_score": 0.0111,
-                    "highlights": [
-                        {
-                            "highlight": "<em>Apple</em> <em>Inc</em>. (NASDAQ: NA[+126 characters]",
-                            "sentiment": -0.296,
-                            "highlighted_in": "main_text"
-                        },
-                        {
-                            "highlight": "<em>Apple</em> Shows Its Ability To Pivot (NASDAQ:AAPL)",
-                            "sentiment": 0.3182,
-                            "highlighted_in": "title"
-                        }
-                    ]
-                }
-            ],
-            "similar": []
-        }
-    ]
-}
+    {
+        "uuid": "a8dadef8-6729-464a-a024-d988aab8b3e3",
+        "title": "Trump threatens 25% tariffs on Apple if iPhones not US made",
+        "description": "US President Donald Trump threatened Apple Inc. with a tariff of at least 25% if it does not manufacture its iPhones in the US, ramping up pressure on the tech giant to secure more domestic production.",
+        "keywords": "iPhones, iPhone US manufacturing, iPhone India manufacturing, iPhone tariff Trump, Donald Trump, Apple iPhone manufacturing US, Trump tariff on Apple, Apple iPhone production India, Apple supply chain China, US manufacturing jobs, Apple Tim Cook India, Apple domestic production, US-India trade relations, Apple tariff impact, Apple stock reaction, Trump trade policies, India smartphone manufacturing, Apple import tariffs",
+        "snippet": "(Bloomberg) -- President Donald Trump threatened Apple Inc. with a tariff of at least 25% if it does not manufacture its iPhones in the US, ramping up pressure ...",
+        "url": "https://www.livemint.com/companies/news/trump-threatens-25-tariffs-on-apple-if-iphones-not-us-made-11748002422516.html",
+        "image_url": "https://www.livemint.com/lm-img/img/2025/05/23/1600x900/TECH-RESULTS-AI-0_1747579765591_1748003035915.JPG",
+        "language": "en",
+        "published_at": "2025-05-23T12:25:36.000000Z",
+        "source": "livemint.com",
+        "relevance_score": null,
+        "entities": [
+            {
+                "symbol": "AAPL",
+                "name": "Apple Inc.",
+                "exchange": null,
+                "exchange_long": null,
+                "country": "us",
+                "type": "equity",
+                "industry": "Technology",
+                "match_score": 32.28483,
+                "sentiment_score": -0.11126,
+                "highlights": [
+                    {
+                        "highlight": "(Bloomberg) -- President Donald Trump th[+191 characters]",
+                        "sentiment": -0.4215,
+                        "highlighted_in": "main_text"
+                    },
+                    {
+                        "highlight": "\u201cI have long ago informed Tim Cook of [+323 characters]",
+                        "sentiment": 0.7845,
+                        "highlighted_in": "main_text"
+                    },
+                    {
+                        "highlight": "<em>Apple</em> shares sank 4%.\n\n<em>Appl[+206 characters]",
+                        "sentiment": -0.296,
+                        "highlighted_in": "main_text"
+                    },
+                    {
+                        "highlight": "Building iPhones from scratch in the US [+289 characters]",
+                        "sentiment": -0.2415,
+                        "highlighted_in": "main_text"
+                    },
+                    {
+                        "highlight": "Trump threatens 25% tariffs on <em>Apple</em> if iPhones not US made",
+                        "sentiment": -0.3818,
+                        "highlighted_in": "title"
+                    }
+                ]
+            }
+        ],
+        "similar": []
+    },
+    {
+        "uuid": "1514eeac-1b30-426a-87a6-3bd5a6158c4c",
+        "title": "The EURUSD moves lower after Trump imposed 50% tariff on EU goods",
+        "description": "The climb down the mountain restarts after things looked on the up and up last week.",
+        "keywords": "",
+        "snippet": "The EURUSD is moving to the downside reversing the gains from earlier today after Pres. Trump said he would impose a 50% tariff on EU imports into the US starti...",
+        "url": "https://www.forexlive.com/technical-analysis/the-eurusd-moves-lower-after-trump-imposed-50-tariff-on-eu-goods-20250523/",
+        "image_url": "https://images.forexlive.com/fl-static/fl-thumbnail.jpg",
+        "language": "en",
+        "published_at": "2025-05-23T12:20:41.000000Z",
+        "source": "forexlive.com",
+        "relevance_score": null,
+        "entities": [
+            {
+                "symbol": "AAPL",
+                "name": "Apple Inc.",
+                "exchange": null,
+                "exchange_long": null,
+                "country": "us",
+                "type": "equity",
+                "industry": "Technology",
+                "match_score": 12.191703,
+                "sentiment_score": -0.6808,
+                "highlights": [
+                    {
+                        "highlight": "He also said he would impose a 25% tarif[+196 characters]",
+                        "sentiment": -0.6808,
+                        "highlighted_in": "main_text"
+                    }
+                ]
+            }
+        ],
+        "similar": []
+    }
+]

@@ -30,7 +30,7 @@ This guide will help you set up the Market Sentiment Analysis project on your Wi
 
 4.  **Install Required Python Libraries:**
     *   Ensure your virtual environment is activated (you should see `(.venv)` at the beginning of your terminal prompt).
-    *   Install the libraries listed in `requirements.txt`:
+    *   Install the libraries listed in requirements.txt:
         `pip install -r requirements.txt`
 
 5.  **Configure API Key:**
