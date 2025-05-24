@@ -1,0 +1,147 @@
+[
+    {
+        "uuid": "af009903-8f7a-40e0-b471-7e0d86e22439",
+        "title": "Trump's tariff threat at Apple is 'frustrating situation for investors,' Wedbush says (AAPL:NASDAQ)",
+        "description": "President Trump's threat that Apple (AAPL) will have to pay a 25% tariff on iPhones not made in the U.S. adds to a \u201cfrustrating situation for investors,\u201d Wedbush Securities said. Read for more.",
+        "keywords": "",
+        "snippet": "President Trump's threat that Apple (NASDAQ:AAPL) will have to pay a 25% tariff on iPhones not made in the U.S. adds to a \u201cfrustrating situation for investors...",
+        "url": "https://seekingalpha.com/news/4451985-trumps-tariff-threat-at-apple-is-frustrating-situation-for-investors-wedbush-says",
+        "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1698903380/image_1698903380.jpg?io=getty-c-w750",
+        "language": "en",
+        "published_at": "2025-05-23T12:33:54.000000Z",
+        "source": "seekingalpha.com",
+        "relevance_score": null,
+        "entities": [
+            {
+                "symbol": "AAPL",
+                "name": "Apple Inc.",
+                "exchange": null,
+                "exchange_long": null,
+                "country": "us",
+                "type": "equity",
+                "industry": "Technology",
+                "match_score": 31.306887,
+                "sentiment_score": -0.5624,
+                "highlights": [
+                    {
+                        "highlight": "President Trump's threat that <em>Apple<[+253 characters]",
+                        "sentiment": -0.3818,
+                        "highlighted_in": "main_text"
+                    },
+                    {
+                        "highlight": "Trump's tariff threat at <em>Apple</em> is 'frustrating situation for investors,' Wedbush says (AAPL:NASDAQ)",
+                        "sentiment": -0.743,
+                        "highlighted_in": "title"
+                    }
+                ]
+            }
+        ],
+        "similar": [],
+        "sentiment": {
+            "neg": 0.212,
+            "neu": 0.746,
+            "pos": 0.042,
+            "compound": -0.836
+        }
+    },
+    {
+        "uuid": "a8dadef8-6729-464a-a024-d988aab8b3e3",
+        "title": "Trump threatens 25% tariffs on Apple if iPhones not US made",
+        "description": "US President Donald Trump threatened Apple Inc. with a tariff of at least 25% if it does not manufacture its iPhones in the US, ramping up pressure on the tech giant to secure more domestic production.",
+        "keywords": "iPhones, iPhone US manufacturing, iPhone India manufacturing, iPhone tariff Trump, Donald Trump, Apple iPhone manufacturing US, Trump tariff on Apple, Apple iPhone production India, Apple supply chain China, US manufacturing jobs, Apple Tim Cook India, Apple domestic production, US-India trade relations, Apple tariff impact, Apple stock reaction, Trump trade policies, India smartphone manufacturing, Apple import tariffs",
+        "snippet": "(Bloomberg) -- President Donald Trump threatened Apple Inc. with a tariff of at least 25% if it does not manufacture its iPhones in the US, ramping up pressure ...",
+        "url": "https://www.livemint.com/companies/news/trump-threatens-25-tariffs-on-apple-if-iphones-not-us-made-11748002422516.html",
+        "image_url": "https://www.livemint.com/lm-img/img/2025/05/23/1600x900/TECH-RESULTS-AI-0_1747579765591_1748003035915.JPG",
+        "language": "en",
+        "published_at": "2025-05-23T12:25:36.000000Z",
+        "source": "livemint.com",
+        "relevance_score": null,
+        "entities": [
+            {
+                "symbol": "AAPL",
+                "name": "Apple Inc.",
+                "exchange": null,
+                "exchange_long": null,
+                "country": "us",
+                "type": "equity",
+                "industry": "Technology",
+                "match_score": 32.28483,
+                "sentiment_score": -0.11126,
+                "highlights": [
+                    {
+                        "highlight": "(Bloomberg) -- President Donald Trump th[+191 characters]",
+                        "sentiment": -0.4215,
+                        "highlighted_in": "main_text"
+                    },
+                    {
+                        "highlight": "\u201cI have long ago informed Tim Cook of [+323 characters]",
+                        "sentiment": 0.7845,
+                        "highlighted_in": "main_text"
+                    },
+                    {
+                        "highlight": "<em>Apple</em> shares sank 4%.\n\n<em>Appl[+206 characters]",
+                        "sentiment": -0.296,
+                        "highlighted_in": "main_text"
+                    },
+                    {
+                        "highlight": "Building iPhones from scratch in the US [+289 characters]",
+                        "sentiment": -0.2415,
+                        "highlighted_in": "main_text"
+                    },
+                    {
+                        "highlight": "Trump threatens 25% tariffs on <em>Apple</em> if iPhones not US made",
+                        "sentiment": -0.3818,
+                        "highlighted_in": "title"
+                    }
+                ]
+            }
+        ],
+        "similar": [],
+        "sentiment": {
+            "neg": 0.149,
+            "neu": 0.805,
+            "pos": 0.046,
+            "compound": -0.6597
+        }
+    },
+    {
+        "uuid": "1514eeac-1b30-426a-87a6-3bd5a6158c4c",
+        "title": "The EURUSD moves lower after Trump imposed 50% tariff on EU goods",
+        "description": "The climb down the mountain restarts after things looked on the up and up last week.",
+        "keywords": "",
+        "snippet": "The EURUSD is moving to the downside reversing the gains from earlier today after Pres. Trump said he would impose a 50% tariff on EU imports into the US starti...",
+        "url": "https://www.forexlive.com/technical-analysis/the-eurusd-moves-lower-after-trump-imposed-50-tariff-on-eu-goods-20250523/",
+        "image_url": "https://images.forexlive.com/fl-static/fl-thumbnail.jpg",
+        "language": "en",
+        "published_at": "2025-05-23T12:20:41.000000Z",
+        "source": "forexlive.com",
+        "relevance_score": null,
+        "entities": [
+            {
+                "symbol": "AAPL",
+                "name": "Apple Inc.",
+                "exchange": null,
+                "exchange_long": null,
+                "country": "us",
+                "type": "equity",
+                "industry": "Technology",
+                "match_score": 12.191703,
+                "sentiment_score": -0.6808,
+                "highlights": [
+                    {
+                        "highlight": "He also said he would impose a 25% tarif[+196 characters]",
+                        "sentiment": -0.6808,
+                        "highlighted_in": "main_text"
+                    }
+                ]
+            }
+        ],
+        "similar": [],
+        "sentiment": {
+            "neg": 0.119,
+            "neu": 0.881,
+            "pos": 0.0,
+            "compound": -0.3612
+        }
+    }
+]
