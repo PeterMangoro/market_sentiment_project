@@ -1,0 +1,26 @@
+2025-05-30 11:49:40,335 - db.cli - INFO - Database path: C:\Users\loverobrands\Documents\DataAnalytics\Projects\market_sentiment_project_complete\market_sentiment.db
+2025-05-30 11:49:40,336 - db.cli - INFO - Data directory: C:\Users\loverobrands\Documents\DataAnalytics\Projects\market_sentiment_project_complete\data
+2025-05-30 11:49:40,336 - db.schema - INFO - Creating database at C:\Users\loverobrands\Documents\DataAnalytics\Projects\market_sentiment_project_complete\market_sentiment.db
+2025-05-30 11:49:40,384 - db.schema - INFO - Database and tables created successfully
+2025-05-30 11:49:40,384 - db.cli - INFO - No specific data load option selected. Loading all data by default.
+2025-05-30 11:49:40,386 - db.cli - INFO - Loading stock data...
+2025-05-30 11:49:40,387 - db.loaders.stock_loader - INFO - Loading stock data from C:\Users\loverobrands\Documents\DataAnalytics\Projects\market_sentiment_project_complete\data\stock_data
+2025-05-30 11:49:40,387 - db.loaders.stock_loader - INFO - Processing stock data for AAPL from C:\Users\loverobrands\Documents\DataAnalytics\Projects\market_sentiment_project_complete\data\stock_data\AAPL_stock_data.json
+2025-05-30 11:49:40,398 - db.loaders.stock_loader - INFO - Loaded 1 days of data for AAPL
+2025-05-30 11:49:40,399 - db.loaders.stock_loader - INFO - Processing stock data for GOOGL from C:\Users\loverobrands\Documents\DataAnalytics\Projects\market_sentiment_project_complete\data\stock_data\GOOGL_stock_data.json
+2025-05-30 11:49:40,410 - db.loaders.stock_loader - INFO - Loaded 1 days of data for GOOGL
+2025-05-30 11:49:40,411 - db.loaders.stock_loader - INFO - Processing stock data for MSFT from C:\Users\loverobrands\Documents\DataAnalytics\Projects\market_sentiment_project_complete\data\stock_data\MSFT_stock_data.json
+2025-05-30 11:49:40,423 - db.loaders.stock_loader - INFO - Loaded 1 days of data for MSFT
+2025-05-30 11:49:40,423 - db.loaders.stock_loader - INFO - Stock data loading complete. Total records: 3
+2025-05-30 11:49:40,423 - db.cli - INFO - Successfully loaded stock data: 3 records
+2025-05-30 11:49:40,424 - db.cli - INFO - Loading news data...
+2025-05-30 11:49:40,424 - db.loaders.news_loader - INFO - Loading news data from C:\Users\loverobrands\Documents\DataAnalytics\Projects\market_sentiment_project_complete\data\news_with_sentiment.json
+2025-05-30 11:49:40,430 - db.loaders.news_loader - INFO - Loaded 3 news articles into the database.
+2025-05-30 11:49:40,431 - db.loaders.news_loader - INFO - Linked 0 news-stock relationships.
+2025-05-30 11:49:40,431 - db.cli - INFO - Successfully loaded news data: 3 articles, 0 links
+2025-05-30 11:49:40,431 - db.cli - INFO - Loading Twitter data...
+2025-05-30 11:49:40,431 - db.loaders.twitter_loader - INFO - Loading Twitter data from C:\Users\loverobrands\Documents\DataAnalytics\Projects\market_sentiment_project_complete\data\twitter_with_sentiment.json
+2025-05-30 11:49:40,440 - db.loaders.twitter_loader - INFO - Loaded 6 tweets into the database.
+2025-05-30 11:49:40,440 - db.loaders.twitter_loader - INFO - Linked 0 tweet-stock relationships.
+2025-05-30 11:49:40,440 - db.cli - INFO - Successfully loaded Twitter data: 6 tweets, 0 links
+2025-05-30 11:49:40,440 - db.cli - INFO - Database setup and data loading complete

@@ -1,0 +1,74 @@
+[
+    {
+        "query": "$AAPL stock",
+        "response": {
+            "placeholder": "Twitter data for '$AAPL stock' would be fetched here"
+        }
+    },
+    {
+        "query": "#AAPL stock price",
+        "response": {
+            "placeholder": "Twitter data for '#AAPL stock price' would be fetched here"
+        }
+    },
+    {
+        "query": "$MSFT stock",
+        "response": {
+            "placeholder": "Twitter data for '$MSFT stock' would be fetched here"
+        }
+    },
+    {
+        "query": "#MSFT stock price",
+        "response": {
+            "placeholder": "Twitter data for '#MSFT stock price' would be fetched here"
+        }
+    },
+    {
+        "query": "$GOOGL stock",
+        "response": {
+            "placeholder": "Twitter data for '$GOOGL stock' would be fetched here"
+        }
+    },
+    {
+        "query": "#GOOGL stock price",
+        "response": {
+            "placeholder": "Twitter data for '#GOOGL stock price' would be fetched here"
+        }
+    },
+    {
+        "query": "$AAPL stock",
+        "response": {
+            "placeholder": "Twitter data for '$AAPL stock' would be fetched here"
+        }
+    },
+    {
+        "query": "#AAPL stock price",
+        "response": {
+            "placeholder": "Twitter data for '#AAPL stock price' would be fetched here"
+        }
+    },
+    {
+        "query": "$MSFT stock",
+        "response": {
+            "placeholder": "Twitter data for '$MSFT stock' would be fetched here"
+        }
+    },
+    {
+        "query": "#MSFT stock price",
+        "response": {
+            "placeholder": "Twitter data for '#MSFT stock price' would be fetched here"
+        }
+    },
+    {
+        "query": "$GOOGL stock",
+        "response": {
+            "placeholder": "Twitter data for '$GOOGL stock' would be fetched here"
+        }
+    },
+    {
+        "query": "#GOOGL stock price",
+        "response": {
+            "placeholder": "Twitter data for '#GOOGL stock price' would be fetched here"
+        }
+    }
+]

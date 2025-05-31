@@ -1,0 +1,1280 @@
+{
+    "warnings": [
+        "limit is higher than your plan allows"
+    ],
+    "meta": {
+        "found": 161129,
+        "returned": 3,
+        "limit": 3,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "4c3a7422-7855-416b-825e-28f4fd66120d",
+            "title": "Bitcoin: A Comprehensive Analysis of its Genesis, Technology, Economics, and Future Trajectory",
+            "description": "The emergence of Bitcoin marked a pivotal moment in the history of finance and technology. Born from a vision of decentralized digital currency, its journey from a conceptual whitepaper to a globally\u2026",
+            "keywords": "",
+            "snippet": "Bitcoin: A Comprehensive Analysis of its Genesis, Technology, Economics, and Future Trajectory Furqon Fitrianto Follow 61 min read \u00b7 Just now Just now -- Liste...",
+            "url": "https://medium.com/@furqonfitrianto/bitcoin-a-comprehensive-analysis-of-its-genesis-technology-economics-and-future-trajectory-c7a381a0ecae",
+            "image_url": "https://miro.medium.com/v2/resize:fit:1200/1*o0fq4wPkENTe8gKJb2RlIA.png",
+            "language": "en",
+            "published_at": "2025-05-31T08:32:48.000000Z",
+            "source": "medium.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "MSFT",
+                    "name": "Microsoft Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 3.695976,
+                    "sentiment_score": 0.7845,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Microsoft</em> began accepting Bitco[+168 characters]",
+                            "sentiment": 0.7845,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 3.927566,
+                    "sentiment_score": 0.7003,
+                    "highlights": [
+                        {
+                            "highlight": "The early 2020s saw a surge in instituti[+199 characters]",
+                            "sentiment": 0.7003,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "CC:BTC",
+                    "name": "Bitcoin",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "global",
+                    "type": "cryptocurrency",
+                    "industry": "N/A",
+                    "match_score": 43.130898,
+                    "sentiment_score": 0.219755,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Bitcoin</em>: A Comprehensive Analys[+302 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "However, the reality is that <em>Bitcoin[+259 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The Genesis Block is unique; it has no p[+168 characters]",
+                            "sentiment": -0.7351,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The first recorded <em>Bitcoin</em> tran[+239 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The first real-world commercial transact[+205 characters]",
+                            "sentiment": 0.2263,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "This event is celebrated annually and vi[+220 characters]",
+                            "sentiment": 0.8834,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Programmer Laszlo Hanyecz purchased two [+330 characters]",
+                            "sentiment": 0.9042,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "This event, paradoxically, also showcase[+277 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Gox exchange, for instance, while pivota[+182 characters]",
+                            "sentiment": -0.7783,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Following the first halving in November [+178 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Bitcoin</em>: A Comprehensive Analysis of its Genesis, Technology, Economics, and Future Trajectory",
+                            "sentiment": 0.25,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PTOP",
+                    "name": "Peer to Peer Network",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 11.909065,
+                    "sentiment_score": -0.128,
+                    "highlights": [
+                        {
+                            "highlight": "The system was designed as a <em>peer</e[+238 characters]",
+                            "sentiment": -0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        },
+        {
+            "uuid": "f3c640ff-1d38-49d5-9c34-d867e5dc9514",
+            "title": "Amazon Pledges To Continue Aggressive Data Center Expansion",
+            "description": "Amazon.com Inc.\u2019s cloud services chief says the company is aggressively expanding server farms globally and looking to boost access to the latest artificial intelligence chips from Nvidia Corp.",
+            "keywords": "Amazon, Bloomberg, data center",
+            "snippet": "Amazon.com Inc.\u2019s cloud services chief says the company is aggressively expanding server farms globally and looking to boost access to the latest artificial i...",
+            "url": "https://www.ndtvprofit.com/business/amazon-pledges-to-continue-aggressive-data-center-expansion",
+            "image_url": "https://media.assettype.com/bloombergquint%2F2025-05-31%2F8yenlent%2F433930941.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+            "language": "en",
+            "published_at": "2025-05-31T05:43:53.000000Z",
+            "source": "bloombergquint.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "AMZN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 20.303787,
+                    "sentiment_score": 0.5423,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Amazon.com</em> <em>Inc</em>.\u2019s cl[+173 characters]",
+                            "sentiment": 0.5423,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 11.742095,
+                    "sentiment_score": 0.8834,
+                    "highlights": [
+                        {
+                            "highlight": "Like rivals Microsoft Corp. and <em>Alph[+315 characters]",
+                            "sentiment": 0.8834,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 18.709543,
+                    "sentiment_score": 0.8834,
+                    "highlights": [
+                        {
+                            "highlight": "Like rivals Microsoft Corp. and <em>Alph[+315 characters]",
+                            "sentiment": 0.8834,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT.MI",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "it",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 18.659729,
+                    "sentiment_score": 0.8985,
+                    "highlights": [
+                        {
+                            "highlight": "Like rivals <em>Microsoft</em> <em>Corp<[+315 characters]",
+                            "sentiment": 0.8834,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The AI startup\u2019s models are powered by[+303 characters]",
+                            "sentiment": 0.9136,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA.MI",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "it",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 20.444645,
+                    "sentiment_score": 0.5095,
+                    "highlights": [
+                        {
+                            "highlight": "Amazon.com Inc.\u2019s cloud services chief[+173 characters]",
+                            "sentiment": 0.5423,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Garman said it was working with <em>Nvid[+295 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.BA",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 18.709986,
+                    "sentiment_score": 0.8834,
+                    "highlights": [
+                        {
+                            "highlight": "Like rivals Microsoft Corp. and <em>Alph[+315 characters]",
+                            "sentiment": 0.8834,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDAD.BA",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 20.444668,
+                    "sentiment_score": 0.5095,
+                    "highlights": [
+                        {
+                            "highlight": "Amazon.com Inc.\u2019s cloud services chief[+173 characters]",
+                            "sentiment": 0.5423,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Garman said it was working with <em>Nvid[+295 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTD.BA",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 18.659857,
+                    "sentiment_score": 0.8985,
+                    "highlights": [
+                        {
+                            "highlight": "Like rivals <em>Microsoft</em> <em>Corp<[+315 characters]",
+                            "sentiment": 0.8834,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The AI startup\u2019s models are powered by[+303 characters]",
+                            "sentiment": 0.9136,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTB.BA",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 18.659857,
+                    "sentiment_score": 0.8985,
+                    "highlights": [
+                        {
+                            "highlight": "Like rivals <em>Microsoft</em> <em>Corp<[+315 characters]",
+                            "sentiment": 0.8834,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The AI startup\u2019s models are powered by[+303 characters]",
+                            "sentiment": 0.9136,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTC.BA",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 18.659857,
+                    "sentiment_score": 0.8985,
+                    "highlights": [
+                        {
+                            "highlight": "Like rivals <em>Microsoft</em> <em>Corp<[+315 characters]",
+                            "sentiment": 0.8834,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The AI startup\u2019s models are powered by[+303 characters]",
+                            "sentiment": 0.9136,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDAC.BA",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 20.444672,
+                    "sentiment_score": 0.5095,
+                    "highlights": [
+                        {
+                            "highlight": "Amazon.com Inc.\u2019s cloud services chief[+173 characters]",
+                            "sentiment": 0.5423,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Garman said it was working with <em>Nvid[+295 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOGLD.BA",
+                    "name": "ALPHABET INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 18.709988,
+                    "sentiment_score": 0.8834,
+                    "highlights": [
+                        {
+                            "highlight": "Like rivals Microsoft Corp. and <em>Alph[+315 characters]",
+                            "sentiment": 0.8834,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN.SN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 20.304005,
+                    "sentiment_score": 0.5423,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Amazon.com</em> <em>Inc</em>.\u2019s cl[+173 characters]",
+                            "sentiment": 0.5423,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 18.709988,
+                    "sentiment_score": 0.8834,
+                    "highlights": [
+                        {
+                            "highlight": "Like rivals Microsoft Corp. and <em>Alph[+315 characters]",
+                            "sentiment": 0.8834,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTCL.SN",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 18.659859,
+                    "sentiment_score": 0.8985,
+                    "highlights": [
+                        {
+                            "highlight": "Like rivals <em>Microsoft</em> <em>Corp<[+315 characters]",
+                            "sentiment": 0.8834,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The AI startup\u2019s models are powered by[+303 characters]",
+                            "sentiment": 0.9136,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 18.709988,
+                    "sentiment_score": 0.8834,
+                    "highlights": [
+                        {
+                            "highlight": "Like rivals Microsoft Corp. and <em>Alph[+315 characters]",
+                            "sentiment": 0.8834,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZNCL.SN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 20.304005,
+                    "sentiment_score": 0.5423,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Amazon.com</em> <em>Inc</em>.\u2019s cl[+173 characters]",
+                            "sentiment": 0.5423,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGCL.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 18.709988,
+                    "sentiment_score": 0.8834,
+                    "highlights": [
+                        {
+                            "highlight": "Like rivals Microsoft Corp. and <em>Alph[+315 characters]",
+                            "sentiment": 0.8834,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZ.DE",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 20.30391,
+                    "sentiment_score": 0.5423,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Amazon.com</em> <em>Inc</em>.\u2019s cl[+173 characters]",
+                            "sentiment": 0.5423,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ABEA.DE",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 18.71014,
+                    "sentiment_score": 0.8834,
+                    "highlights": [
+                        {
+                            "highlight": "Like rivals Microsoft Corp. and <em>Alph[+315 characters]",
+                            "sentiment": 0.8834,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ABEC.DE",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 18.71015,
+                    "sentiment_score": 0.8834,
+                    "highlights": [
+                        {
+                            "highlight": "Like rivals Microsoft Corp. and <em>Alph[+315 characters]",
+                            "sentiment": 0.8834,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN.MX",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 20.304077,
+                    "sentiment_score": 0.5423,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Amazon.com</em> <em>Inc</em>.\u2019s cl[+173 characters]",
+                            "sentiment": 0.5423,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.MX",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 18.710388,
+                    "sentiment_score": 0.8834,
+                    "highlights": [
+                        {
+                            "highlight": "Like rivals Microsoft Corp. and <em>Alph[+315 characters]",
+                            "sentiment": 0.8834,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG.MX",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 18.710388,
+                    "sentiment_score": 0.8834,
+                    "highlights": [
+                        {
+                            "highlight": "Like rivals Microsoft Corp. and <em>Alph[+315 characters]",
+                            "sentiment": 0.8834,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        },
+        {
+            "uuid": "46b274b3-b84a-41ce-9ae7-f473c95b386b",
+            "title": "US judge considers breaking up Google, selling Chrome to curb search monopoly",
+            "description": "A US judge is considering drastic remedies\u2014including a Chrome sell-off and default search bans\u2014after ruling Google\u2019s search engine is an illegal monopoly. The final decision is expected by September.",
+            "keywords": "Google monopoly ruling, Chrome browser antitrust, Google search engine lawsuit, AI and search market, DOJ vs Google case",
+            "snippet": "The fate and fortunes of one of the world's most powerful tech companies now sits in the hands of a US judge wrestling with whether to impose far-reaching chang...",
+            "url": "https://www.thehindubusinessline.com/info-tech/us-judge-wrestles-with-remedies-in-google-antitrust-trial/article69640521.ece",
+            "image_url": "https://bl-i.thgim.com/public/incoming/r9emy5/article69640548.ece/alternates/LANDSCAPE_1200/2025-05-30T100052Z_1588332555_RC26HAAZ2GXV_RTRMADP_3_TECH-ANTITRUST-GOOGLE-SEARCH.JPG",
+            "language": "en",
+            "published_at": "2025-05-31T02:26:36.000000Z",
+            "source": "thehindubusinessline.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "GOOGL.MX",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 14.015678,
+                    "sentiment_score": 0.5859,
+                    "highlights": [
+                        {
+                            "highlight": "The Justice Department contends that AI [+230 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG.MX",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 14.015678,
+                    "sentiment_score": 0.5859,
+                    "highlights": [
+                        {
+                            "highlight": "The Justice Department contends that AI [+230 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 8.894911,
+                    "sentiment_score": 0.5859,
+                    "highlights": [
+                        {
+                            "highlight": "The Justice Department contends that AI [+230 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 14.015705,
+                    "sentiment_score": 0.5859,
+                    "highlights": [
+                        {
+                            "highlight": "The Justice Department contends that AI [+230 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.BA",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 14.015752,
+                    "sentiment_score": 0.5859,
+                    "highlights": [
+                        {
+                            "highlight": "The Justice Department contends that AI [+230 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOGLD.BA",
+                    "name": "ALPHABET INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 14.015752,
+                    "sentiment_score": 0.5859,
+                    "highlights": [
+                        {
+                            "highlight": "The Justice Department contends that AI [+230 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 14.015276,
+                    "sentiment_score": 0.5859,
+                    "highlights": [
+                        {
+                            "highlight": "The Justice Department contends that AI [+230 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 14.015276,
+                    "sentiment_score": 0.5859,
+                    "highlights": [
+                        {
+                            "highlight": "The Justice Department contends that AI [+230 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGCL.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 14.015276,
+                    "sentiment_score": 0.5859,
+                    "highlights": [
+                        {
+                            "highlight": "The Justice Department contends that AI [+230 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ABEA.DE",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 14.015563,
+                    "sentiment_score": 0.5859,
+                    "highlights": [
+                        {
+                            "highlight": "The Justice Department contends that AI [+230 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ABEC.DE",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 14.015564,
+                    "sentiment_score": 0.5859,
+                    "highlights": [
+                        {
+                            "highlight": "The Justice Department contends that AI [+230 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": [
+                {
+                    "uuid": "237ee73d-871a-4fa6-82a2-36525c1c6bac",
+                    "title": "Judge wrestles with far-reaching remedy proposals in US antitrust case against Google",
+                    "description": "Judge wrestles with far-reaching remedy proposals in US antitrust case against Google",
+                    "keywords": "Google, search engine, illegal monopoly, AI technology, Chrome browser",
+                    "snippet": "WASHINGTON \u2014 The fate and fortunes of one of the world\u2019s most powerful tech companies now sits in the hands of a U.S. judge wrestling with whether to impose...",
+                    "url": "https://www.livemint.com/news/us-news/judge-wrestles-with-far-reaching-remedy-proposals-in-us-antitrust-case-against-google-11748646935087.html",
+                    "image_url": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/NEWS_1733464049847_1733464070835.jpg",
+                    "language": "en",
+                    "published_at": "2025-05-30T23:15:34.000000Z",
+                    "source": "livemint.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "GOOG",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 7.897185,
+                            "sentiment_score": 0.5859,
+                            "highlights": [
+                                {
+                                    "highlight": "The Justice Department contends that AI [+229 characters]",
+                                    "sentiment": 0.5859,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOOGL",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 12.370913,
+                            "sentiment_score": 0.5859,
+                            "highlights": [
+                                {
+                                    "highlight": "The Justice Department contends that AI [+229 characters]",
+                                    "sentiment": 0.5859,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOOGL.BA",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 12.370915,
+                            "sentiment_score": 0.5859,
+                            "highlights": [
+                                {
+                                    "highlight": "The Justice Department contends that AI [+229 characters]",
+                                    "sentiment": 0.5859,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOGLD.BA",
+                            "name": "ALPHABET INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 12.370915,
+                            "sentiment_score": 0.5859,
+                            "highlights": [
+                                {
+                                    "highlight": "The Justice Department contends that AI [+229 characters]",
+                                    "sentiment": 0.5859,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOOGL.SN",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 12.370852,
+                            "sentiment_score": 0.5859,
+                            "highlights": [
+                                {
+                                    "highlight": "The Justice Department contends that AI [+229 characters]",
+                                    "sentiment": 0.5859,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOOG.SN",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 12.370852,
+                            "sentiment_score": 0.5859,
+                            "highlights": [
+                                {
+                                    "highlight": "The Justice Department contends that AI [+229 characters]",
+                                    "sentiment": 0.5859,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOOGCL.SN",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 12.370852,
+                            "sentiment_score": 0.5859,
+                            "highlights": [
+                                {
+                                    "highlight": "The Justice Department contends that AI [+229 characters]",
+                                    "sentiment": 0.5859,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "ABEA.DE",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 12.371087,
+                            "sentiment_score": 0.5859,
+                            "highlights": [
+                                {
+                                    "highlight": "The Justice Department contends that AI [+229 characters]",
+                                    "sentiment": 0.5859,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "ABEC.DE",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 12.371089,
+                            "sentiment_score": 0.5859,
+                            "highlights": [
+                                {
+                                    "highlight": "The Justice Department contends that AI [+229 characters]",
+                                    "sentiment": 0.5859,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOOGL.MX",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 12.371101,
+                            "sentiment_score": 0.5859,
+                            "highlights": [
+                                {
+                                    "highlight": "The Justice Department contends that AI [+229 characters]",
+                                    "sentiment": 0.5859,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOOG.MX",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 12.371101,
+                            "sentiment_score": 0.5859,
+                            "highlights": [
+                                {
+                                    "highlight": "The Justice Department contends that AI [+229 characters]",
+                                    "sentiment": 0.5859,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "uuid": "e8ddc822-1e45-4257-b855-db940ca0cfb6",
+                    "title": "Google Search judge zeroes in on AI power in trial resolution",
+                    "description": "A US court is deciding on remedies for Google's search monopoly. The judge is examining Google's influence in artificial intelligence. The Justice Department wants restrictions on Google's AI practices. They propose measures to boost competition in search and AI. Google opposes these remedies, citing innovation. The court is weighing long-term solutions for the market.",
+                    "keywords": "Google, Google Search monopoly, OpenAI, Judge Amit Mehta, Sundar Pichai, AI market impact, AI chatbots threat to search",
+                    "snippet": "Live Events\n\nThe federal judge who will decide how to limit Google \u2019s monopoly in search is looking closely at its power in a more nascent market: artificial ...",
+                    "url": "https://economictimes.indiatimes.com/tech/technology/google-search-judge-zeroes-in-on-ai-power-in-trial-resolution/articleshow/121524754.cms",
+                    "image_url": "https://img.etimg.com/thumb/msid-121524712,width-1200,height-630,imgsize-28460,overlay-ettech/articleshow.jpg",
+                    "language": "en",
+                    "published_at": "2025-05-30T19:00:58.000000Z",
+                    "source": "economictimes.indiatimes.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "GOOG",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 7.897212,
+                            "sentiment_score": 0.5267,
+                            "highlights": [
+                                {
+                                    "highlight": "Live Events\n\nThe federal judge who will [+338 characters]",
+                                    "sentiment": 0.5267,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOOGL",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 12.370994,
+                            "sentiment_score": 0.5267,
+                            "highlights": [
+                                {
+                                    "highlight": "Live Events\n\nThe federal judge who will [+338 characters]",
+                                    "sentiment": 0.5267,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOOGL.BA",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 12.370988,
+                            "sentiment_score": 0.5267,
+                            "highlights": [
+                                {
+                                    "highlight": "Live Events\n\nThe federal judge who will [+338 characters]",
+                                    "sentiment": 0.5267,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOGLD.BA",
+                            "name": "ALPHABET INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 12.370988,
+                            "sentiment_score": 0.5267,
+                            "highlights": [
+                                {
+                                    "highlight": "Live Events\n\nThe federal judge who will [+338 characters]",
+                                    "sentiment": 0.5267,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOOGL.SN",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 12.370958,
+                            "sentiment_score": 0.5267,
+                            "highlights": [
+                                {
+                                    "highlight": "Live Events\n\nThe federal judge who will [+338 characters]",
+                                    "sentiment": 0.5267,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOOG.SN",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 12.370958,
+                            "sentiment_score": 0.5267,
+                            "highlights": [
+                                {
+                                    "highlight": "Live Events\n\nThe federal judge who will [+338 characters]",
+                                    "sentiment": 0.5267,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOOGCL.SN",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 12.370958,
+                            "sentiment_score": 0.5267,
+                            "highlights": [
+                                {
+                                    "highlight": "Live Events\n\nThe federal judge who will [+338 characters]",
+                                    "sentiment": 0.5267,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "ABEA.DE",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 12.370955,
+                            "sentiment_score": 0.5267,
+                            "highlights": [
+                                {
+                                    "highlight": "Live Events\n\nThe federal judge who will [+338 characters]",
+                                    "sentiment": 0.5267,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "ABEC.DE",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 12.370955,
+                            "sentiment_score": 0.5267,
+                            "highlights": [
+                                {
+                                    "highlight": "Live Events\n\nThe federal judge who will [+338 characters]",
+                                    "sentiment": 0.5267,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOOGL.MX",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 12.37067,
+                            "sentiment_score": 0.5267,
+                            "highlights": [
+                                {
+                                    "highlight": "Live Events\n\nThe federal judge who will [+338 characters]",
+                                    "sentiment": 0.5267,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOOG.MX",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 12.37067,
+                            "sentiment_score": 0.5267,
+                            "highlights": [
+                                {
+                                    "highlight": "Live Events\n\nThe federal judge who will [+338 characters]",
+                                    "sentiment": 0.5267,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
